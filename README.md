@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sukrit Sethi</h1>
 <h3 align="center">A design centric full stack web developer currently exploring web3</h3>
 
+<img align="right" alt="coding_gif" src="![image](https://github.com/SukritSethi/SukritSethi/assets/72218366/1227c375-5855-467f-9359-34423a7aaa09)
+>
+
 - 🔭 I’m currently working on **Chrome Extensions**
 
 - 🌱 I’m currently learning **Solidity, Redis and Jest**
